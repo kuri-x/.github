@@ -1,3 +1,3 @@
-## <center> Kuri-X </center>
+# <center> Kuri-X </center>
 
->  An open-source educative organization 
+>  Something extraordinary is cooking!
